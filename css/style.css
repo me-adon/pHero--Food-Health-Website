@@ -121,3 +121,16 @@ body {
 #section-4pad-bot {
     margin-bottom: 5%;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.section-border {
+    border: 1px solid violet;
+    border-radius: 15px;
+    box-shadow: 3px -3px 30px 2px gray;
+    box-shadow: -3px 3px 30px 2px gray;
+    margin: 5%;
+    padding: 2% 3%;
+}
