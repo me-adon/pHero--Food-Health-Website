@@ -1,0 +1,17 @@
+.block-display {
+    display: block;
+}
+
+
+
+.half-width {
+    width: 100%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.display-flex {
+    display: flex;
+}
