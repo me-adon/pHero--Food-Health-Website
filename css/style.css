@@ -77,3 +77,47 @@ body {
 .btn-sec2 {
     padding-bottom: 80px;
 }
+
+.sec-3-h {
+    font-size: 30px;
+    padding-left: 44%;
+}
+
+#text-semi-center {
+    margin: 20px 32%;
+    text-align: center;
+}
+
+.half-width-plus-l {
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 3px -3px 30px 2px gray;
+    box-shadow: -3px 3px 30px 2px gray;
+}
+
+
+
+.half-width-plus-r {
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 2%;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 3px -3px 30px 2px gray;
+    box-shadow: -3px 3px 30px 2px gray;
+}
+
+#img-3 {
+    width: 100%;
+}
+
+#img-4 {
+    width: 100%;
+}
+
+#section-4pad-bot {
+    margin-bottom: 5%;
+}
