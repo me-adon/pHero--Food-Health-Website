@@ -93,7 +93,7 @@ body {
     margin-left: 5%;
     margin-right: 2%;
     padding: 15px 15px;
-    border-radius: 15px;
+    border-radius: 30px;
     box-shadow: 3px -3px 30px 2px gray;
     box-shadow: -3px 3px 30px 2px gray;
 }
@@ -105,9 +105,13 @@ body {
     margin-right: 5%;
     margin-left: 2%;
     padding: 15px 15px;
-    border-radius: 15px;
+    border-radius: 30px;
     box-shadow: 3px -3px 30px 2px gray;
     box-shadow: -3px 3px 30px 2px gray;
+}
+
+.bottom-margin {
+    margin-bottom: 80px;
 }
 
 #img-3 {
@@ -137,4 +141,12 @@ body {
 
 .margin-2 {
     margin-left: 4%;
+}
+
+.extra-pad-mar {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border: 1px solid black;
+    color: whitesmoke;
+    background-color: black;
 }
