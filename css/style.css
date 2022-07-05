@@ -1,17 +1,52 @@
-.block-display {
-    display: block;
+body {
+    font-family: 'Rubik', sans-serif;
 }
 
-
+.display-flex {
+    display: flex;
+}
 
 .half-width {
     width: 100%;
 }
 
-.half-width img {
-    width: 80%;
+.block-display {
+    display: block;
 }
 
-.display-flex {
-    display: flex;
+.larger-font {
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.large-font {
+    font-size: 25px;
+    font-weight: 100;
+    margin-bottom: 60px;
+}
+
+
+.half-width img {
+    width: 100%;
+}
+
+.text-color {
+    color: orange;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: orange;
+    background-image: -moz-linear-gradient(orange, tomato);
+    border: 1px solid orange;
+
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: white;
+}
+
+.pad-t {
+    padding-top: 200px;
+    padding-left: 150px;
+
 }
